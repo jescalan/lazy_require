@@ -1,0 +1,25 @@
+{
+  "name": "lazy-require",
+  "version": "0.0.0",
+  "author": "Jeff Escalante <hello@jenius.me>",
+  "description": "Like require, but the library is only actually loaded when it's used.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jenius/lazy-require.git"
+  },
+  "main": "lib",
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "coffee-script": "1.7.x",
+    "mockery": "1.x",
+    "sinon": "1.x"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
