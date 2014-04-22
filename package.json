@@ -1,5 +1,5 @@
 {
-  "name": "lazy-require",
+  "name": "lazy_require",
   "version": "0.0.0",
   "author": "Jeff Escalante <hello@jenius.me>",
   "description": "Like require, but the library is only actually loaded when it's used.",
