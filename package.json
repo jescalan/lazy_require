@@ -1,6 +1,6 @@
 {
   "name": "lazy_require",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Jeff Escalante <hello@jenius.me>",
   "description": "Like require, but the library is only actually loaded when it's used.",
   "license": "MIT",
