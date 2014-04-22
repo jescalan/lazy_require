@@ -1,6 +1,6 @@
 # lazy_require
 
-[![npm](http://img.shields.io/npm/v/lazy_require.svg?style=flat)](https://badge.fury.io/js/lazy_require) [![tests](http://img.shields.io/travis/jenius/lazy_require/master.svg?style=flat)](https://travis-ci.org/jenius/lazy_require) [![dependencies](http://img.shields.io/gemnasium/jenius/lazy_require.svg?style=flat)](https://david-dm.org/jenius/lazy_require)
+[![npm](http://img.shields.io/npm/v/lazy_require.svg?style=flat)](https://badge.fury.io/js/lazy_require) [![tests](http://img.shields.io/travis/jenius/lazy_require/master.svg?style=flat)](https://travis-ci.org/jenius/lazy_require)
 
 Like require, but the library is only actually loaded when it's used.
 
